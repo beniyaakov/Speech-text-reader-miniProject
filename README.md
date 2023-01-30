@@ -9,3 +9,6 @@ A text to speech app for non-verbal people. Pre-made buttons and custom text spe
 - Drop down custom text to speech
 - Speaks the text typed in
 - Change voices and accents
+
+#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
+
